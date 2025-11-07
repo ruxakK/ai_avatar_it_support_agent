@@ -1,0 +1,18 @@
+Custom License for AI AVATAR IT SUPPORT AGENT
+
+Copyright (c) 2025 Thanh-Y Nguyen. All Rights Reserved.
+
+Permission is granted to any individual to download, use, and modify this code
+for personal, private, and educational purposes only.
+
+Ownership and Restrictions:
+- All files in this project, except portions of `agent.py` not authored by Thanh-Y Nguyen, are original contributions by Thanh-Y Nguyen. 
+- Only the original contributions by Thanh-Y Nguyen may NOT be redistributed, published, claimed as someone else's, or used in commercial products or services without written permission.
+
+You are NOT permitted to:
+- Redistribute or publicly publish the proprietary portions of this project.
+- Claim ownership or authorship of any proprietary portions of this project.
+- Use proprietary portions of this project for commercial purposes without written permission.
+
+Third-Party Licenses:
+- Portions of `agent.py` not authored by Thanh-Y Nguyen are also subject to their respective licenses (e.g., MIT for LiveKit code). 
